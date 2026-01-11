@@ -6,10 +6,8 @@
 <h2 align="left">About Me</h2>
 
 <h4 align="left">
- 🚀 Learning and Advancing in **DEVOPS** with Automating the application delivery process and exploring various tools required for **DEVOPS**.
+ 🚀 Learning and Advancing in DEVOPS with Automating the application delivery process and exploring various tools required for DEVOPS.
 </h4>
- 
-<h2 align="left">Tech-Stacks</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
   <img src="https://skillicons.dev/icons?i=js" alt="Javascript" title="Javascript" />
