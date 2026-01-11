@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hari0101.hari0101" />
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=66BB6A&lines=Hi+There!+👋;+I'm+Hari+Prasath!;"
@@ -39,12 +38,12 @@
   </a> -->
 </div>
 
-<h2 align="left">⚡ Stats</h2>
+<!-- <h2 align="left">⚡ Stats</h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hari0101&show_icons=true&count_private=true&hide=prs&theme=dark" alt="Your GitHub Stats">
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0101&layout=compact&theme=dark&hide=html,css&langs_count=1" alt="Top Language" />
-</p>
+</p> -->
 
 
